@@ -21,7 +21,7 @@
 DEVICE_PATH := device/samsung/crownqltechn
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := crownqltechn
+TARGET_OTA_ASSERT_DEVICE := crownqltechn,crownqlte
 
 # Kernel
 TARGET_KERNEL_CONFIG := crownqlte_chn_open_defconfig
